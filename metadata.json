@@ -1,0 +1,6 @@
+{
+  "name": "Handei Logistics",
+  "description": "USSD Transport Logistics Platform connecting clients and drivers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
